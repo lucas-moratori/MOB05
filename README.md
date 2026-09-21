@@ -1,2 +1,2 @@
 # MOB05
-# Atividades e exemplos introdutórios da aula MOB05
+# Atividades da aula MOB05
