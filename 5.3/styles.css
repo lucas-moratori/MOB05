@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(46, 129, 122);
+    color:white;
+    font-family: Arial;
+}
+
+.card { 
+    background: rgb(4, 81, 83);
+    padding: 20px; 
+    border-radius: 10px; 
+    max-width: 300px; 
+    margin: auto; 
+    border: 1px solid; 
+    margin-bottom: 20px; }
+
+button {
+    background: #089ac7; 
+    color: white; 
+    border: none; 
+    padding: 10px; 
+    border-radius: 
+    5px; font-weight: 
+    bold; cursor: 
+    pointer; 
+    margin: auto 
+} 
+
+button:hover {
+    background:#0c6a86 
+}
